@@ -7,3 +7,6 @@ This repository s composed of the projects created in [Microsoft Power BI Deskto
 It has 2 files and i WILL GO OVER THEM.
 
 ### File nº1 -> Adventure works report
+
+The idea of the course is to learn power BI by doing a job of a business analist. It was a great way to learn how power bi works and how to construct a dashboard from raw data.
+
