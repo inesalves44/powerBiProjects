@@ -22,4 +22,4 @@ It was a fantastic way to better undersatnd powerBI and to do other power BI pro
 
 ### File nº2 -> Maven Dashboard
 
-The second file is a single page report for another fictional company. It was just to consilidate what I learned before.
+The second file is a single page report for another fictional company. It was just to consolidate what I learned before.
